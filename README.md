@@ -1,0 +1,1 @@
+The code requires an API key from Balldontlie to run. The first, bigger file has all outputs, including the information of all players fetched by the api and the average draft number, while the smaller file only includes the code.
